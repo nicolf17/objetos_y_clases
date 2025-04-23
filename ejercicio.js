@@ -14,7 +14,7 @@ class Carro {
     constructor(nombre, edad) {
       this.nombre = nombre;
       this.edad = edad;
-      this.carros = []; // Lista de carros del conductor
+      this.carros = []; 
     }
   
     agregarCarro(carro) {
